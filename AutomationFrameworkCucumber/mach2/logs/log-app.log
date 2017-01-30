@@ -1,0 +1,36 @@
+2017-01-30 09:30:11 INFO  - SCENARIO: Verify that Employee Experience list view shows all employees that contains the Git skill. MESSAGE: starting scenario.
+2017-01-30 09:30:11 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 09:30:38 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 09:30:40 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 09:30:41 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 09:30:42 INFO  - STEP: I select . MESSAGE: Employees Experienceservice of Open ERP.
+2017-01-30 09:30:42 INFO  - STEP: I selectSkills with Git. MESSAGE: selectSkills with Git.
+2017-01-30 09:30:43 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 12:46:46 INFO  - SCENARIO: Verify that Employee Experience list view shows all employees that contains the Git skill. MESSAGE: starting scenario.
+2017-01-30 12:46:46 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 12:46:56 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 12:46:58 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 12:46:59 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 12:46:59 INFO  - STEP: I select . MESSAGE: Employees Experienceservice of Open ERP.
+2017-01-30 12:47:00 INFO  - STEP: I selectSkills with GitHub. MESSAGE: selectSkills with GitHub.
+2017-01-30 12:47:05 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 12:47:06 INFO  - STEP: I should see a List view with all employees that contains GitHub in their Skills. MESSAGE: List view with all employees with GitHub.
+2017-01-30 12:47:16 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:29:42 INFO  - SCENARIO: Table list with divisions by SELOG. MESSAGE: starting scenario.
+2017-01-30 13:29:43 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:30:14 INFO  - SCENARIO: Table list with divisions by SELOG. MESSAGE: starting scenario.
+2017-01-30 13:30:14 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:30:23 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:30:25 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:30:26 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:30:27 INFO  - STEP: I select . MESSAGE: Employees Personal Informationservice of Open ERP.
+2017-01-30 13:30:27 INFO  - STEP: I selectDivisions with Outsourcing. MESSAGE: selectDivisions with Outsourcing.
+2017-01-30 13:30:29 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
+2017-01-30 13:30:56 INFO  - SCENARIO: Table list with divisions by SELOG. MESSAGE: starting scenario.
+2017-01-30 13:30:56 INFO  - STEP: I am login on Mach2 webpage. MESSAGE: Go to Mach2 webpage.
+2017-01-30 13:31:05 INFO  - STEP: I have a board created with a widget. MESSAGE: created board and widget.
+2017-01-30 13:31:07 INFO  - STEP: I click on Widget button. MESSAGE: Add a Widget.
+2017-01-30 13:31:13 INFO  - STEP: I select Open ERP service. MESSAGE: Select Open ERP service.
+2017-01-30 13:31:14 INFO  - STEP: I select . MESSAGE: Employees Personal Informationservice of Open ERP.
+2017-01-30 13:31:14 INFO  - STEP: I selectDivisions with Outsourcing. MESSAGE: selectDivisions with Outsourcing.
+2017-01-30 13:31:16 INFO  - STEP: I click on save button. MESSAGE: Click on save button.
